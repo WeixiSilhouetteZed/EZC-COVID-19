@@ -4,7 +4,7 @@
 
 Welcome to EZC-COVID-19 repository where you will find necessary data sets for our projects to proceed!
 
-## Acknowledgement
+## Acknowledgement/Data Set Description
 
 1. We thank EZC for sponsoring this educational endeavor and we hope everyone feel worthwhile by taking this `R` journey with me.
 2. External Data Source:
@@ -14,6 +14,10 @@ Welcome to EZC-COVID-19 repository where you will find necessary data sets for o
   We thank SRK for putting multiple features of the COVID-19 together for us to perform analysis.
 
 There are some additional data sets created by myself simply to showcase some functionalities of `R` and some real world problem that you might encounter when using such a statistical analytic programming language.
+
+- `dota2Dataset` is provided by the famous [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.php). This data set will be used for us to perform data cleaning and practice `R` syntax.
+- `ZM.csv` is the time series of stock bid/ask price of ZOOM Inc. since its initial public offering (IPO) provided by [Yahoo Finance Zoom Stock Ticker](https://finance.yahoo.com/quote/ZM/history?period1=1577836800&period2=1587600000&interval=1d&filter=history&frequency=1d). This file will be used for us to conduct return and volatility forecast on stock investment.
+- `BondData.csv` is a set of simulated bond features originally provided in a `Matlab` table. I have transformed it into more accessible `.csv` data format. This data set will be used for us to discuss about fixed income instruments, in terms of pricing, interest rate sensitivities, and arbitrarge finding.
 
 ## Finished Projects
 
