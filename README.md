@@ -2,7 +2,7 @@
 
 ## Purpose of the Repository
 
-Welcome to EZC-COVID-19 repository where you will find necessary data sets for our projects to proceed!
+Welcome to EZC-R-Programming repository where you will find necessary data sets for our projects to proceed!
 
 ## Acknowledgement/Data Set Description
 
