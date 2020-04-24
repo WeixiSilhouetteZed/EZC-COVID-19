@@ -1,4 +1,4 @@
-# EZC-COVID-19
+# EZC-R-Programming
 
 ## Purpose of the Repository
 
